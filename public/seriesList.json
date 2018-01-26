@@ -1,0 +1,59 @@
+[
+  {
+    "id": 292248,
+    "seriesName": "Egyxos",
+    "aliases": [],
+    "banner": "",
+    "seriesId": "",
+    "status": "Ended",
+    "firstAired": "2015-02-22",
+    "network": "Super Channel",
+    "networkId": "",
+    "runtime": "20",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "overview": "An ancient civilization lost in time and space, is coming back - the Egyxos. They are incredible creatures gifted with superpowers split into two factions endlessly battling for the domination over their kingdom. During the fighting between the two warrior brothers Kefer and Exaton, the earthly boy Leo is involved despite his will. He doesn't know he has inherited a great power - The last Pharaoh's one. Once Leo finds out his gift, his life will change forever and a big adventure between two worlds, where danger is always lurking, will begin.",
+    "lastUpdated": 1515369694,
+    "airsDayOfWeek": "Sunday",
+    "airsTime": "10:00",
+    "rating": "",
+    "imdbId": "tt4332766",
+    "zap2itId": "",
+    "added": "2015-02-18 03:27:08",
+    "addedBy": 420398,
+    "siteRating": 0,
+    "siteRatingCount": 0
+  },
+  {
+    "id": 341307,
+    "seriesName": "Eskamak Kentzen",
+    "aliases": [],
+    "banner": "graphical/341307-g.jpg",
+    "seriesId": "",
+    "status": "Ended",
+    "firstAired": "2016-02-23",
+    "network": "",
+    "networkId": "",
+    "runtime": "60",
+    "genre": [
+      "Drama",
+      "Family",
+      "Soap"
+    ],
+    "overview": "When the owner of canning factory puts the company up for sale because of its infeasibility, the workers, all women, decide to buy it and create a Cooperative, leaded by a girl whot comes back from New York after several years.",
+    "lastUpdated": 1516147210,
+    "airsDayOfWeek": "Tuesday",
+    "airsTime": "22:00",
+    "rating": "",
+    "imdbId": "tt5440098",
+    "zap2itId": "",
+    "added": "2018-01-16 15:23:38",
+    "addedBy": 473249,
+    "siteRating": 0,
+    "siteRatingCount": 0
+  }
+]

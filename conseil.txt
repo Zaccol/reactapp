@@ -1,0 +1,4 @@
+Faire la meme chose qu'en AJAX mais en REACT
+
+- utiliser reduce: permet de retourner le premier élément qui marche, ou l'id
+- formulaire de saisi sur react
